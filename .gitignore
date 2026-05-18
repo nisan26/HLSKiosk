@@ -1,0 +1,16 @@
+# Built files
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Local files
+local.properties
+.idea/
+.gradle/
+*.iml
+
+# Gradle wrapper (will be auto-generated)
+!gradle-wrapper.jar
+.DS_Store
