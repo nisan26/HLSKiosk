@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "com.nisan.hlskiosk"
         minSdk 21
-        targetSdk 30   // Android 10 fits X96Q Pro perfectly
+        targetSdk 30
         versionCode 3
         versionName "3.0"
     }
